@@ -64,7 +64,9 @@ while (i <= 5){
 
 };
 
-let edad = 10;
+let edad = 18;
+
+//Condicionales
 
 if(edad >= 18){
 
@@ -75,4 +77,8 @@ if(edad >= 18){
     console.log("No podes ingresar, pero te falta poco")
 
     
-};  
+} else{
+
+    console.log("No podes ingresar, te falta mucho")
+
+};
