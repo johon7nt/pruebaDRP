@@ -64,3 +64,15 @@ while (i <= 5){
 
 };
 
+let edad = 10;
+
+if(edad >= 18){
+
+    console.log("podes ingresar, sos mayor")
+
+}   else if(edad === 17){
+
+    console.log("No podes ingresar, pero te falta poco")
+
+    
+};  
